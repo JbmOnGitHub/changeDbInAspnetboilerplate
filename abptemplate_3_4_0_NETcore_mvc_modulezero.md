@@ -16,7 +16,6 @@ Npgsql
 
 ##### Manage Nuget in your EntityFrameworkCore project
 - Uninstall the package Microsoft.EntityFrameworkCore.SqlServer
-- Downgrade the Microsoft.EntityFrameworkCore.* project in 2.0.1 to 2.0.0
 - Add Npgsql.EntityFrameworkCore.PostgreSQL (2.0.0) & Npgsql.EntityFrameworkCore.PostgreSQL.Design (1.1.1)
 
 ##### Clean other files
